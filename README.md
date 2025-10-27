@@ -4,7 +4,7 @@
 - **Live Application:** [https://your-project-name.onrender.com](https://your-project-name.onrender.com)
 
 ## 2. GitHub Repository
-- **Source Code:** [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+- **Source Code:** [https://github.com/your-username/your-repo-name]([https://github.com/your-username/your-repo-name](https://github.com/thanakorn03/simple-note-taker.git))
 
 ## 3. Deployment Platform & Configuration
 - **Provider:** Render.com
